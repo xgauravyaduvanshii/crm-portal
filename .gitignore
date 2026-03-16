@@ -1,0 +1,11 @@
+.vercel
+/node_modules
+/public/hot
+/public/storage
+/public/store/*
+/public/debug_paytabs.log
+!/public/store/.htaccess
+/storage/*.key
+/vendor
+/.idea
+/.vscode
