@@ -9,3 +9,6 @@
 /vendor
 /.idea
 /.vscode
+.env*.local
+.env
+.env*
